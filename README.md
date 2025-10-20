@@ -27,7 +27,7 @@ Started as a **graphic designer** in 2020 — now building **AI-driven business 
 <table width="100%" cellspacing="0" cellpadding="10">
   <tr>
     <td width="50%" valign="top">
-      <h4><img src="https://img.shields.io/badge/MENUSA-111827?style=for-the-badge&logo=shopify&logoColor=white" /> Brand & Design</h4>
+      <h4><img src="https://img.shields.io/badge/MENUSA-111827?style=for-the-badge&logo=shopify&logoColor=white" /> </h4>
       <p><em>Creative streetwear meets digital identity.</em><br>
       Brand fashion & digital design yang menggabungkan konsep art direction dan komunitas. Saya mengelola visual, strategy, dan campaign end-to-end.</p>
       <strong>Tools:</strong> Photoshop · Illustrator · Figma · Canva · AI
