@@ -59,6 +59,12 @@ Saya menjalankan kampanye digital berbasis data dengan funnel:
 **Ad → WhatsApp Business → Purchase → Retarget.**
 
 #### 💼 Meta Ads (Facebook & Instagram)
+### 📊 Marketing & Performance
+> *From creatives to conversions — every ad is built to perform.*
+
+Saya menjalankan kampanye digital berbasis data dengan funnel strategis:  
+**Ad → WhatsApp Business → Purchase → Retarget**
+
 <table width="100%">
   <tr>
     <!-- Meta Ads -->
@@ -73,9 +79,6 @@ Saya menjalankan kampanye digital berbasis data dengan funnel:
       <strong>Focus:</strong> Conversion funnel design · Creative strategy · Campaign scaling
     </td>
 
-🧠 *Used advanced targeting, lookalike audiences, creative A/B testing, and dynamic catalog ads.*
-
-#### 🎬 TikTok Ads & TikTok Shop
     <!-- TikTok Ads -->
     <td width="50%" valign="top">
       <img src="https://img.shields.io/badge/TikTok_Ads_&_Shop-000000?style=for-the-badge&logo=tiktok&logoColor=white" /><br>
@@ -89,8 +92,6 @@ Saya menjalankan kampanye digital berbasis data dengan funnel:
     </td>
   </tr>
 </table>
-
-⚙️ *Optimized through content hooks, storytelling, and iterative scaling for better ROAS.*
 
 ---
 
