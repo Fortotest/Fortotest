@@ -1,11 +1,11 @@
 <!-- ===== README: Fortotest (Rizky Fadil) ===== -->
 
-<!-- Illustration / Hero image (ganti URL kalau mau pakai ilustrasi sendiri) -->
+<!-- Hero Section -->
 <p align="center">
   <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1400&q=80" alt="illustration" width="900" style="border-radius:12px; box-shadow: 0 8px 30px rgba(34,41,47,.15)"/>
 </p>
 
-<h1 align="center">Hey, I'm <strong>Rizky Fadil</strong></h1>
+<h1 align="center"><strong>Rizky Fadil</strong></h1>
 <p align="center">
   <strong>Digital Business Student ('24) • AI Builder • Web3 Explorer • Performance Marketer</strong><br>
   <em>"The future’s not coming — I’m building it."</em>
@@ -14,38 +14,39 @@
 ---
 
 ### ⚡ What I Do
-I’m a Digital Business student and freelance advertiser who blends **design**, **data**, and **product** thinking.  
-Started as a graphic designer (Photoshop, Illustrator, Figma) in 2020 — now building AI-driven business tools and running performance campaigns on Meta & TikTok.
+I’m a **Digital Business student** and **freelance advertiser** who blends **design**, **data**, and **product** thinking.  
+Started as a **graphic designer** (Photoshop, Illustrator, Figma) in 2020 — now building **AI-driven business tools** and running **performance campaigns** on Meta & TikTok.
 
-I don’t just build apps — I build *funnels*. I don't just design — I build *brands*.
+I don’t just build apps — I build *funnels*.  
+I don't just design — I build *brands*.
 
 ---
 
 ### 🚀 Featured Projects
-Berikut proyek utama yang sedang saya kerjakan — practical, measurable, and product-focused.
+Berikut beberapa proyek utama yang sedang saya kerjakan — practical, measurable, and product-focused.
 
 <table width="100%" cellpadding="12">
   <tr>
     <td width="50%" valign="top">
-      <h4><img src="https://img.shields.io/badge/-MENUSA-111827?style=flat-square&logo=shopify&logoColor=white" alt="MENUSA" /> MENUSA (Brand & Design)</h4>
+      <h4><img src="https://img.shields.io/badge/-MENUSA-111827?style=flat-square&logo=shopify&logoColor=white" /> MENUSA (Brand & Design)</h4>
       <p><em>Creative streetwear meets digital identity.</em><br>
-      Brand fashion & digital design, fokus pada concept art & community-driven drops. Saya handle visual branding, creative direction & ad creatives.</p>
+      Brand fashion & digital design yang fokus pada concept art & community-driven drops. Saya handle visual branding, creative direction & ad creatives.</p>
       <strong>Tools:</strong> Photoshop · Illustrator · Figma · Canva · AI
     </td>
     <td width="50%" valign="top">
-      <h4><img src="https://img.shields.io/badge/-Petakan.ai-0EA5A4?style=flat-square&logo=vercel&logoColor=white" alt="Petakan.ai" /> Petakan.ai (AI × Business)</h4>
-      <p>Simulator bisnis interaktif untuk founder e-commerce. Built with Next.js + Firebase — bantu uji pricing, spend & proyeksi P&L.</p>
+      <h4><img src="https://img.shields.io/badge/-Petakan.ai-0EA5A4?style=flat-square&logo=vercel&logoColor=white" /> Petakan.ai (AI × Business)</h4>
+      <p>Simulator bisnis interaktif untuk founder e-commerce. Built with Next.js + Firebase — bantu uji pricing, marketing spend, dan proyeksi P&L.</p>
       <strong>Tools:</strong> Next.js · TypeScript · Firebase · Chart.js
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><img src="https://img.shields.io/badge/-Jurnal_Trading-2D3748?style=flat-square&logo=internetexplorer&logoColor=white" alt="Jurnal Trading" /> Jurnal Trading (Web3 / DApp)</h4>
+      <h4><img src="https://img.shields.io/badge/-Jurnal_Trading-2D3748?style=flat-square&logo=internetexplorer&logoColor=white" /> Jurnal Trading (Web3 / DApp)</h4>
       <p>Jurnal trading terdesentralisasi (100% on-chain) di Internet Computer (ICP) — eksperimen saya untuk tools Web3 yang praktikal.</p>
       <strong>Tools:</strong> Motoko · Svelte · JavaScript · ICP
     </td>
     <td width="50%" valign="top">
-      <h4><img src="https://img.shields.io/badge/-Narrative_Navigator-7C3AED?style=flat-square&logo=coingecko&logoColor=white" alt="Narrative Navigator" /> Narrative Navigator (Fintech × AI)</h4>
+      <h4><img src="https://img.shields.io/badge/-Narrative_Navigator-7C3AED?style=flat-square&logo=coingecko&logoColor=white" /> Narrative Navigator (Fintech × AI)</h4>
       <p>Dashboard analitik crypto yang menggunakan AI untuk mendeteksi narasi & anomali pasar dengan real-time feeds.</p>
       <strong>Tools:</strong> Next.js · Firebase · SWR · CoinGecko API
     </td>
@@ -55,20 +56,28 @@ Berikut proyek utama yang sedang saya kerjakan — practical, measurable, and pr
 ---
 
 ### 📊 Marketing & Performance (Hands-On)
-Saya menjalankan full-funnel paid campaigns dengan fokus ke hasil nyata (ad → WA Business → purchase).
+Saya menjalankan full-funnel paid campaigns dengan fokus ke hasil nyata — *from ad views to real purchases.*
 
-**Meta Ads (Facebook & Instagram)**  
-- **Total Reach:** 10,549,723 impressions  
-- **Total Clicks:** 2,777,199  
-- **Avg CTR:** 3.8%  
-- **Total Spend:** ~ Rp 105,000,000  
-- **Funnel:** Ad → WhatsApp Business → Purchase  
-> Optimization: audience segmentation, lookalikes, creative A/B testing, dynamic ads.
+#### 💼 Meta Ads (Facebook & Instagram)
+| Metric | Data |
+|--------|------|
+| **Total Reach** | 10,549,723 impressions |
+| **Total Clicks** | 2,777,199 |
+| **Avg CTR** | 3.8% |
+| **Total Spend** | ± Rp 105,000,000 |
+| **Conversion Flow** | Ad → WhatsApp Business → Purchase |
 
-**TikTok Ads & Shop**  
-- Fokus: short-form UGC, Spark Ads untuk discovery → push to Shop.  
-- Peran: creative strategy, creative testing, scaling winners via CTR & ROAS signals.  
-- Integrasi: organic content → paid spark → shop checkout (MENUSA).
+🧠 *Optimization via audience segmentation, lookalikes, creative A/B testing, and dynamic ads.*
+
+#### 🎬 TikTok Ads & TikTok Shop
+| Focus | Strategy |
+|-------|-----------|
+| **Ad Type** | Short-form UGC & Spark Ads |
+| **Goal** | Product discovery → Shop conversion |
+| **Integration** | Organic content → Paid Spark → Shop checkout |
+| **Brand Example** | MENUSA (fashion / streetwear) |
+
+⚙️ *Focus on viral storytelling + data-backed scaling to maximize ROAS.*
 
 ---
 
@@ -120,16 +129,14 @@ Saya menjalankan full-funnel paid campaigns dengan fokus ke hasil nyata (ad → 
 ---
 
 ### 🤝 Let's Connect
-_Beritahu gue project lo — atau kirim DM kalau mau ngobrol strategi, creative production, atau build tooling._
-
 <p align="center">
-  <a href="https://instagram.com/fortotes" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Instagram-@fortotes-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
+  <a href="https://instagram.com/fortotes" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   &nbsp;
-  <a href="https://clicky.id/rizkyfadil" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Portfolio-clicky.id-2b2b2b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio"/></a>
+  <a href="https://clicky.id/rizkyfadil" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Portfolio-2b2b2b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   &nbsp;
-  <a href="https://linkedin.com" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/LinkedIn-Add_Link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+  <a href="https://linkedin.com/in/rizkyfadil" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   &nbsp;
-  <a href="mailto:fadillatur.rizki@cakrawala.ac.id" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Email-fadillatur.rizki@cakrawala.ac.id-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+  <a href="mailto:fadillatur.rizki@cakrawala.ac.id" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
