@@ -54,44 +54,35 @@ Started as a **graphic designer** in 2020, now I’m building **AI-powered busin
 ---
 
 ### 📊 Marketing & Performance
-
-Saya menjalankan kampanye digital berbasis data dengan funnel:  
-**Ad → WhatsApp Business → Purchase → Retarget.**
-
-#### 💼 Meta Ads (Facebook & Instagram)
-### 📊 Marketing & Performance
 > *From creatives to conversions — every ad is built to perform.*
 
-Saya menjalankan kampanye digital berbasis data dengan funnel strategis:  
-**Ad → WhatsApp Business → Purchase → Retarget**
+#### 💼 Meta Ads (Facebook & Instagram)
+![Meta Ads](https://img.shields.io/badge/Meta_Ads_(Facebook_&_Instagram)-0866FF?style=for-the-badge&logo=meta&logoColor=white)
 
-<table width="100%">
-  <tr>
-    <!-- Meta Ads -->
-    <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/Meta_Ads_(Facebook_&_Instagram)-0866FF?style=for-the-badge&logo=facebook&logoColor=white" /><br>
-      <strong>Meta Ads (Facebook & Instagram)</strong><br>
-      <em>Performance-based campaigns built for conversion.</em><br><br>
-      Menjalankan kampanye konversi dengan fokus pada <b>lead generation</b> dan <b>purchase optimization</b> melalui <b>WhatsApp Business funnel</b>.  
-      Menggunakan strategi seperti <b>lookalike audiences</b>, <b>creative A/B testing</b>, dan <b>dynamic catalog ads</b> untuk hasil yang terukur dan efisien.
-      <br><br>
-      <strong>Approach:</strong> Data-driven targeting · Creative iteration · Retargeting optimization<br>
-      <strong>Focus:</strong> Conversion funnel design · Creative strategy · Campaign scaling
-    </td>
+| Focus | Description |
+|--------|--------------|
+| **Campaign Type** | Performance-based campaigns built for conversion |
+| **Objective** | Lead generation & purchase optimization via WhatsApp Business funnel |
+| **Approach** | Data-driven targeting · Creative iteration · Retargeting optimization |
+| **Creative Strategy** | Lookalike audiences · A/B testing · Dynamic catalog ads |
+| **Tools** | Meta Business Suite · Ads Manager · Creative Hub |
 
-    <!-- TikTok Ads -->
-    <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/TikTok_Ads_&_Shop-000000?style=for-the-badge&logo=tiktok&logoColor=white" /><br>
-      <strong>TikTok Ads & TikTok Shop</strong><br>
-      <em>Creative storytelling meets performance marketing.</em><br><br>
-      Membangun kampanye berbasis <b>UGC</b> dan <b>Spark Ads</b> untuk meningkatkan awareness dan konversi di <b>TikTok Shop</b>.  
-      Menggabungkan pendekatan <b>organic-first</b> dengan <b>paid amplification</b> agar konten terasa autentik, engaging, dan tetap menggerakkan hasil.
-      <br><br>
-      <strong>Approach:</strong> Organic → Paid Spark → Shop checkout<br>
-      <strong>Focus:</strong> UGC optimization · Creator collaboration · Conversion scaling
-    </td>
-  </tr>
-</table>
+🧠 *Built and optimized full-funnel ad strategies — from creative concept to conversion scaling.*
+
+---
+
+#### 🎬 TikTok Ads & TikTok Shop
+![TikTok Ads](https://img.shields.io/badge/TikTok_Ads_&_Shop-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+
+| Focus | Description |
+|--------|--------------|
+| **Ad Type** | Short-form UGC & Spark Ads |
+| **Goal** | Product discovery → Shop conversion |
+| **Approach** | Organic → Paid Spark → Shop checkout |
+| **Creative Strategy** | UGC optimization · Creator collaboration · Story-driven scaling |
+| **Tools** | TikTok Ads Manager · CapCut Creative Center · Shop Analytics |
+
+⚙️ *Optimized through storytelling, content hooks, and trend-based scaling for better ROAS.*
 
 ---
 
