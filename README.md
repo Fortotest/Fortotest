@@ -1,23 +1,23 @@
-<!-- Header -->
-<h3 align="left">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrU4B3xl/giphy.gif" width="25px">
-  Hey, I'm <b>Rizky Fadil</b>
-</h3>
+<!-- ===== README: Rizky Fadil | Fortotest ===== -->
 
-<p align="left">
-  <strong>Digital Business Student ('24) · AI Builder · Web3 Explorer · Performance Marketer</strong><br>
-  <i>"The future’s not coming — I’m building it."</i> 🚀
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1200&q=80" alt="Tech workspace" width="900" style="border-radius:12px; box-shadow: 0 8px 30px rgba(0,0,0,.15);" />
+</p>
+
+<h1 align="center">Rizky Fadil</h1>
+<p align="center">
+  <strong>Digital Business Student ('24) • AI Builder • Web3 Explorer • Performance Marketer</strong><br>
+  <em>"The future’s not coming — I’m building it."</em>
 </p>
 
 ---
 
 ### ⚡ What I Do
-
 I’m a **Digital Business student** and **freelance advertiser** who combines **design, marketing, and code** into growth engines.  
 Started as a **graphic designer** in 2020 — now building **AI-driven business tools** and running **high-converting ad campaigns** on Meta & TikTok.
 
-> I don’t just build apps — I build funnels.  
-> I don’t just design — I build brands.
+> I don’t just build apps — I build *funnels*.  
+> I don’t just design — I build *brands*.
 
 ---
 
@@ -26,40 +26,30 @@ Started as a **graphic designer** in 2020 — now building **AI-driven business 
 <table width="100%" cellspacing="0" cellpadding="10">
   <tr>
     <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/MENUSA-Brand_&_Design-black?style=for-the-badge&logo=adobecreativecloud&logoColor=white" /><br>
-      <strong>Brand & Design</strong><br>
-      <em>Creative streetwear meets digital identity.</em><br>
-      Brand fashion & digital design yang menggabungkan konsep art direction dan komunitas.  
-      Saya mengelola visual, strategy, dan campaign end-to-end.
-      <br><br>
+      <img src="https://img.shields.io/badge/MENUSA-111827?style=for-the-badge&logo=shopify&logoColor=white" /><br>
+      <strong>Brand & Design</strong>
+      <p><em>Creative streetwear meets digital identity.</em><br>
+      Brand fashion & digital design yang menggabungkan konsep art direction dan komunitas. Saya mengelola visual, strategy, dan campaign end-to-end.</p>
       <strong>Tools:</strong> Photoshop · Illustrator · Figma · Canva · AI
     </td>
-
     <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/Petakan.ai-Business_Simulator-0ea5e9?style=for-the-badge&logo=nextdotjs&logoColor=white" /><br>
-      <strong>Business Simulator</strong><br>
-      <em>AI x Business Decision Engine.</em><br>
-      Platform interaktif untuk founder e-commerce menguji strategi harga, marketing spend, dan prediksi profit menggunakan <b>Next.js + Firebase</b>.
-      <br><br>
+      <img src="https://img.shields.io/badge/Petakan.ai-0EA5A4?style=for-the-badge&logo=vercel&logoColor=white" /><br>
+      <strong>Business Simulator</strong>
+      <p>Platform interaktif untuk founder e-commerce menguji strategi harga, marketing spend, dan prediksi profit menggunakan <b>Next.js + Firebase</b>.</p>
       <strong>Tools:</strong> Next.js · TypeScript · Firebase · Chart.js
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/Jurnal_Trading-Web3_DApp-ff3e00?style=for-the-badge&logo=svelte&logoColor=white" /><br>
-      <strong>Web3 DApp</strong><br>
-      <em>Decentralized trading journal on Internet Computer (ICP).</em><br>
-      Eksplorasi pribadi saya dalam membuat real-world tools berbasis blockchain dengan backend on-chain 100%.
-      <br><br>
+      <img src="https://img.shields.io/badge/Jurnal_Trading-2D3748?style=for-the-badge&logo=internetexplorer&logoColor=white" /><br>
+      <strong>Web3 DApp</strong>
+      <p>Aplikasi jurnal trading on-chain di <b>Internet Computer (ICP)</b> — eksplorasi pribadi dalam membuat real-world tools berbasis blockchain.</p>
       <strong>Tools:</strong> Motoko · Svelte · ICP
     </td>
-
     <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/Narrative_Navigator-AI_Analytics-7f56d9?style=for-the-badge&logo=firebase&logoColor=white" /><br>
-      <strong>AI Analytics</strong><br>
-      <em>AI-based dashboard for crypto narrative detection.</em><br>
-      Mendeteksi narasi pasar crypto menggunakan <b>CoinGecko API</b> dan <b>SWR caching</b> untuk insight real-time.
-      <br><br>
+      <img src="https://img.shields.io/badge/Narrative_Navigator-7C3AED?style=for-the-badge&logo=coingecko&logoColor=white" /><br>
+      <strong>AI Analytics</strong>
+      <p>AI-based dashboard untuk mendeteksi narasi pasar crypto menggunakan real-time API data dari CoinGecko & SWR caching.</p>
       <strong>Tools:</strong> Next.js · Firebase · SWR · CoinGecko API
     </td>
   </tr>
@@ -76,100 +66,82 @@ Saya menjalankan kampanye digital berbasis data dengan funnel:
   <tr>
     <!-- Meta Ads -->
     <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/Meta_Ads_(FB%2FIG)-0866FF?style=for-the-badge&logo=facebook&logoColor=white" /><br>
-      <strong>Meta Ads (Facebook & Instagram)</strong><br>
-      <em>Performance-based campaigns built for conversion.</em><br>
-      Menjalankan kampanye konversi berbasis data dengan <b>lookalike targeting</b>, <b>creative A/B testing</b>, dan <b>dynamic catalog ads</b> untuk WhatsApp funnel.
-
-      <br><br>
-      <strong>Key Metrics:</strong><br>
-      • Total Reach: 10,549,723 impressions<br>
-      • Total Clicks: 2,777,199<br>
-      • Avg CTR: 3.8%<br>
-      • Ad Spend: ± Rp 105,000,000<br>
-      • Objective: Conversion-focused (Leads via WhatsApp Business)
-      <br><br>
-      <strong>Tools:</strong> Meta Business Suite · Ads Manager · Creative Hub · WhatsApp API
+      <img src="https://img.shields.io/badge/Meta_Ads_(FB/IG)-0866FF?style=for-the-badge&logo=facebook&logoColor=white" /><br>
+      <strong>Meta Ads (Facebook & Instagram)</strong>
+      <table>
+        <tr><td><b>Metric</b></td><td><b>Value</b></td></tr>
+        <tr><td>Total Reach</td><td>10,549,723 impressions</td></tr>
+        <tr><td>Total Clicks</td><td>2,777,199</td></tr>
+        <tr><td>Avg CTR</td><td>3.8%</td></tr>
+        <tr><td>Ad Spend</td><td>± Rp 105,000,000</td></tr>
+        <tr><td>Objective</td><td>Conversion-focused (leads via WhatsApp Business)</td></tr>
+      </table>
+      <p>🧠 <em>Used advanced targeting, lookalike audiences, creative A/B testing, and dynamic catalog ads.</em></p>
     </td>
 
     <!-- TikTok Ads -->
     <td width="50%" valign="top">
       <img src="https://img.shields.io/badge/TikTok_Ads_&_Shop-000000?style=for-the-badge&logo=tiktok&logoColor=white" /><br>
-      <strong>TikTok Ads & TikTok Shop</strong><br>
-      <em>Creative storytelling meets performance marketing.</em><br>
-      Mengelola kampanye <b>UGC & Spark Ads</b> dengan funnel: <b>Organic → Paid Spark → Shop Checkout</b>.  
-      Fokus pada product discovery dan conversion scaling.
-
-      <br><br>
-      <strong>Focus:</strong> Short-form UGC · Spark Ads Optimization<br>
-      <strong>Brand Example:</strong> MENUSA (fashion/streetwear)
-      <br><br>
-      <strong>Tools:</strong> TikTok Ads Manager · CapCut Creative Center · Shop Analytics · Pixel Integration
+      <strong>TikTok Ads & TikTok Shop</strong>
+      <table>
+        <tr><td><b>Focus</b></td><td><b>Strategy</b></td></tr>
+        <tr><td>Ad Type</td><td>Short-form UGC & Spark Ads</td></tr>
+        <tr><td>Goal</td><td>Product discovery → Shop conversion</td></tr>
+        <tr><td>Approach</td><td>Organic → Paid Spark → Shop checkout</td></tr>
+        <tr><td>Brand Example</td><td>MENUSA (fashion/streetwear)</td></tr>
+      </table>
+      <p>⚙️ <em>Optimized through content hooks, storytelling, and iterative scaling for better ROAS.</em></p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ My Digital Arsenal
+### 🧰 Tech & Creative Stack
 
-<p align="left">
-  <strong>Frontend & Frameworks:</strong><br>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+#### 🖥️ Frontend & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
-<p align="left">
-  <strong>Languages:</strong><br>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Motoko-E5A300?style=for-the-badge&logo=motoko&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+#### 💾 Backend, Platforms & Tools
+<p>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Internet_Computer-302B63?style=for-the-badge&logo=internetcomputer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
 </p>
 
-<p align="left">
-  <strong>Backend, Platforms & Tools:</strong><br>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
-  <img src="https://img.shields.io/badge/Internet_Computer-ICP-blue?style=for-the-badge&logo=internetcomputer">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/SWR-000000?style=for-the-badge&logo=swr&logoColor=white">
-</p>
-
-<p align="left">
-  <strong>Design:</strong><br>
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white">
-  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
+#### 🎨 Design & Marketing
+<p>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Meta_Ads-0866FF?style=for-the-badge&logo=facebook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TikTok_Ads-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </p>
 
 ---
 
-### 📈 My GitHub Vitals
-
+### 🌐 Connect With Me
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fortotest&show_icons=true&theme=transparent&hide_border=true&title_color=7F56D9&icon_color=7F56D9&text_color=c9cacc&bg_color=0,0,0,0" alt="Fortotest's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fortotest&layout=compact&theme=transparent&hide_border=true&title_color=7F56D9&text_color=c9cacc&bg_color=0,0,0,0" alt="Top Languages">
+  <a href="https://instagram.com/fortotes" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://clicky.id/rizkyfadil" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2b2b2b?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/rizkyfadil" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  &nbsp;
+  <a href="mailto:fadillatur.rizki@cakrawala.ac.id"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
----
-
-### 🤝 Let's Connect
-
-Got a crazy idea? Want to jam on something **AI × Web3 × Fintech**?  
-Saya selalu terbuka untuk kolaborasi, diskusi, atau brainstorming konsep baru.  
-
-🌐 **Portfolio:** [clicky.id/rizkyfadil](https://clicky.id/rizkyfadil)  
-💼 **LinkedIn:** [linkedin.com/in/rizkyfadil](https://linkedin.com/in/rizkyfadil)  
-📱 **Instagram:** [instagram.com/fortotes](https://instagram.com/fortotes)  
-📧 **Email:** rizkyfadil.business@gmail.com  
 
 ---
 
 <p align="center">
-  <i>“Design sells the dream. Data proves the value. Code makes it real.”</i>
+  <em>“Design sells the dream. Data proves the value. Code makes it real.”</em><br>
+  — <strong>Rizky Fadil</strong>
 </p>
+
+<!-- ===== End of README ===== -->
