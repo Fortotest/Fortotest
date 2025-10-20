@@ -115,9 +115,9 @@ Saya *hands-on* menjalankan *paid ads* dengan *funnel* Ad → WhatsApp Business 
 <br>
 Saya selalu *open* untuk diskusi, kolaborasi, atau *brainstorming* konsep gila. *Feel free to reach out.*
 
+* 📱 **Instagram:** [**@fortotes**](https://instagram.com/fortotes)
 * 🌐 **Portfolio:** [**clicky.id/rizkyfadil**](https://clicky.id/rizkyfadil)
-* 💼 **LinkedIn:** [**(Tambahkan Link LinkedIn Kamu di Sini)**](https://linkedin.com) * 📱 **Instagram:** [**@fortotes**](https://instagram.com/fortotes)
-* 📧 **Email:** `fadillatur.rizki@cakrawala.ac.id`
+* 💼 **LinkedIn:** [**(Tambahkan Link LinkedIn Kamu di Sini)**](https://linkedin.com) 
 
 ---
 <p align="center">
