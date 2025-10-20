@@ -1,119 +1,107 @@
-# 👋 Hey, I'm Rizky Fadil — aka Fortotest  
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrU4B3xl/giphy.gif" width="25px"> Hey, I'm Rizky Fadil — aka Fortotest
 
-📍 Indonesia • Digital Business (‘24)  
-🎯 Freelance Advertiser | Graphic Designer | AI x Web3 Builder  
-
-> "The future’s not coming — I’m building it." 🚀  
-
----
-
-## 🧩 Who I Am  
-
-I’m a **Digital Business student** and **freelance advertiser** who loves building and branding in equal measure.  
-Started as a **graphic designer** in 2020 (Photoshop, Illustrator, Figma), and now expanding into **AI-driven business tools** and **digital marketing automation**.  
-
-I’ve run ads across:
-- **Meta Ads (Facebook & Instagram)** — driving traffic to WhatsApp Business  
-- **TikTok Ads & TikTok Shop** — optimizing conversion funnel through creative testing  
-- **E-commerce & brand campaigns** — combining analytics + design + strategy  
-
-I’m not just selling — I’m learning how data, design, and tech can *scale ideas faster*.  
+<p align="center">
+  <strong>Digital Business Student ('24) | Freelance Marketer & Designer | AI x Web3 Builder</strong>
+  <br>
+  <i>"The future’s not coming — I’m building it."</i> 🚀
+</p>
 
 ---
 
-## ⚙️ My Main Projects
+### 🧩 Who I Am
 
-### 🛍️ MENUSA  
-> *Creative streetwear meets digital identity.*
+I’m a **Digital Business student** and **freelance advertiser** who loves building and branding.
 
-A fashion + digital design brand built with attitude.  
-Every drop blends concept art, meme culture, and community-driven design.  
-🛒 Available on [Shopee](https://shopee.co.id/menusart1)
+Started as a **graphic designer** in 2020 (Photoshop, Illustrator, Figma), now I'm building **AI-driven business tools** and running **digital marketing campaigns** across Meta & TikTok Ads.
 
-**Stack:** Photoshop · Illustrator · AI Tools · Canva · Figma  
-**Focus:** Visual branding, creative direction, digital marketing strategy  
+I don’t just build apps — I build *funnels*. I don't just design — I build *brands*.
 
 ---
 
-### 💻 Petakan.ai  
-> *AI-Powered Business Simulator.*
+### 🚀 Featured Projects
 
-Interactive simulator for e-commerce founders to validate business ideas.  
-Built with **Next.js + Firebase + Chart.js**, it helps test pricing, marketing spend, and predict P&L outcomes.
+Ini adalah beberapa proyek utama yang sedang saya kerjakan. *No fluff, just products that solve problems.*
 
-**Stack:** Next.js · TypeScript · Firebase · Chart.js  
-**Focus:** Business intelligence, data visualization, startup tools  
-
----
-
-### ⚡ Market.ai / Business-Report  
-> *Turning business data into insights.*
-
-Dashboard for Indonesian online sellers to analyze BEP, LTV, and ROAS, powered by **AI-based projections** and real-time charts.  
-
-**Stack:** HTML · Tailwind · JavaScript  
-**Focus:** Market analytics, business validation  
-
----
-
-### 🎨 Graphic Design & Branding  
-> Designing since 2020 — visual identity that sells.  
-
-Tools I use daily:
-- 🖌️ Adobe Photoshop, Illustrator, Canva  
-- 🎨 Figma for UI & social asset layout  
-- 🧠 AI-assisted design (Midjourney, Firefly)  
-- 📈 Ad creatives for Meta & TikTok Ads  
-
----
-
-## 📊 My Marketing Experience  
-
-**💰 Meta Ads**
-- Total Reach: 10M+ impressions  
-- Spent: ± Rp 105M  
-- Average CTR: 3.8%  
-- Channels: Instagram Feed, Reels, Facebook Audience Network  
-- Funnel: Ad → WhatsApp Business → Purchase conversion  
-
-**📱 TikTok Ads & Shop**
-- Focus on short-form UGC creatives and dynamic product ads  
-- Managed campaigns for clothing & accessories brands  
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛍️ MENUSA (Brand & Design)</h4>
+      <p><i>Creative streetwear meets digital identity.</i> Brand fashion & digital design saya, fokus pada concept art dan community-driven design. Bertanggung jawab penuh atas visual branding, creative direction, dan strategy.</p>
+      <b>Tools:</b> Photoshop, Illustrator, Figma, Canva, AI
+    </td>
+    <td width="50%" valign="top">
+      <h4>💻 Petakan.ai (AI x Business)</h4>
+      <p>Simulator bisnis interaktif untuk <i>founder</i> e-commerce memvalidasi ide. Dibangun dengan <b>Next.js + Firebase</b> untuk menguji harga, marketing spend, dan memprediksi P&L.</p>
+      <b>Tools:</b> Next.js, TypeScript, Firebase, Chart.js
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⛓️ Jurnal Trading (Web3/DApp)</h4>
+      <p>Aplikasi jurnal trading terdesentralisasi (DApp) yang 100% <i>on-chain</i> di <b>Internet Computer (ICP)</b>. Eksplorasi pribadi saya membangun <i>real-world tools</i> di Web3.</p>
+      <b>Tools:</b> Motoko, Svelte, JavaScript, ICP
+    </td>
+    <td width="50%" valign="top">
+      <h4>📈 Narrative Navigator (Fintech x AI)</h4>
+      <p>Dashboard analitik crypto yang menggunakan AI untuk mendeteksi narasi pasar. <i>Fetches real-time data</i> dari CoinGecko & SWR untuk menemukan anomali.</p>
+      <b>Tools:</b> Next.js, Firebase, SWR, CoinGecko API
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🧠 My Tech Arsenal  
+### 📊 My Marketing Experience
+
+Saya *hands-on* menjalankan *paid ads* dengan *funnel* Ad → WhatsApp Business → Purchase.
+
+* **💰 Meta Ads (FB/IG):**
+    * **Total Reach:** 10M+ impressions
+    * **Ad Spend:** ± Rp 105M
+    * **Avg. CTR:** 3.8%
+* **📱 TikTok Ads & Shop:**
+    * Fokus pada *short-form UGC creatives* dan *dynamic product ads* untuk *brand* fashion.
+
+---
+
+### 🛠️ My Tech Arsenal
 
 | Area | Tools & Stack |
 |------|---------------|
-| **Frontend** | Next.js · Angular · Svelte · Tailwind |
-| **Languages** | TypeScript · JavaScript · Motoko · HTML |
-| **Design** | Photoshop · Illustrator · Figma · Canva |
-| **Marketing** | Meta Ads · TikTok Ads · WhatsApp Business API |
-| **Database & Tools** | Firebase · Vite · Chart.js · SWR |
-| **Blockchain** | Internet Computer (ICP) · Motoko DApps |
+| **Frontend** | Next.js, Angular, Svelte, Tailwind CSS, HTML5 |
+| **Languages** | TypeScript, JavaScript, Motoko |
+| **Design** | Photoshop, Illustrator, Figma, Canva, AI Tools |
+| **Marketing** | Meta Ads, TikTok Ads, WA Business API |
+| **Backend & Tools** | Firebase, Node.js, Vite, Chart.js, SWR |
+| **Blockchain** | Internet Computer (ICP) |
 
 ---
 
-## ☕ What Drives Me  
+### 📈 My GitHub Vitals
 
-I build and design because I believe **tech + creativity = leverage**.  
-From designing shirts that tell stories, to dashboards that predict revenue — it’s all the same mission:  
-> "Create things that work, look good, and sell."
-
----
-
-## 🌐 Let’s Connect  
-
-💼 Portfolio → [clicky.id/rizkyfadil](https://clicky.id/rizkyfadil)  
-🧢 Brand → [MENUSA Shopee Store](https://shopee.co.id/menusart1)  
-📊 GitHub → [github.com/Fortotest](https://github.com/Fortotest)  
-📧 Email → `fadillatur.rizki@cakrawala.ac.id`  
-📱 Instagram → [@fortotest](https://instagram.com/fortotest)  
-💬 TikTok → [@fortotest.ai](https://tiktok.com/@fortotest.ai)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fortotest&show_icons=true&theme=transparent&hide_border=true&title_color=7F56D9&icon_color=7F56D9&text_color=c9cacc" alt="Fortotest's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fortotest&layout=compact&theme=transparent&hide_border=true&title_color=7F56D9&text_color=c9cacc" alt="Top Languages">
+</p>
 
 ---
 
-> “Design sells the dream.  
->  Data proves the value.  
->  Code makes it real.” — Rizky Fadil ⚙️
+### 🤝 Let’s Connect
+
+*Got a crazy idea? Want to jam on something AI x Web3 x Fintech?*
+<br>
+Saya selalu *open* untuk diskusi, kolaborasi, atau *brainstorming* konsep gila. *Feel free to reach out.*
+
+<p align="left">
+  <a href="https://clicky.id/rizkyfadil" target="_blank"><b>💼 Portfolio (Clicky)</b></a><br>
+  <a href="https://github.com/Fortotest" target="_blank"><b>📊 GitHub</b></a><br>
+  <a href="https://shopee.co.id/menusart1" target="_blank"><b>🧢 Brand (MENUSA)</b></a><br>
+  <a href="https://instagram.com/fortotest" target="_blank"><b>📱 Instagram</b></a><br>
+  <a href="https://tiktok.com/@fortotest.ai" target="_blank"><b>💬 TikTok</b></a><br>
+  <a href="mailto:fadillatur.rizki@cakrawala.ac.id"><b>📧 Email Me</b></a>
+</p>
+
+---
+<p align="center">
+  <i>“Design sells the dream. Data proves the value. Code makes it real.”</i>
+</p>
