@@ -27,26 +27,26 @@ Started as a **graphic designer** in 2020 — now building **AI-driven business 
 <table width="100%" cellspacing="0" cellpadding="10">
   <tr>
     <td width="50%" valign="top">
-      <h4><img src="https://img.shields.io/badge/MENUSA-111827?style=for-the-badge&logo=shopify&logoColor=white" /> Brand & Design</h4>
+      <h4><img src="https://img.shields.io/badge/MENUSA-111827?style=for-the-badge&logo=shopify&logoColor=white" /> </h4>
       <p><em>Creative streetwear meets digital identity.</em><br>
       Brand fashion & digital design yang menggabungkan konsep art direction dan komunitas. Saya mengelola visual, strategy, dan campaign end-to-end.</p>
       <strong>Tools:</strong> Photoshop · Illustrator · Figma · Canva · AI
     </td>
     <td width="50%" valign="top">
-      <h4><img src="https://img.shields.io/badge/Petakan.ai-0EA5A4?style=for-the-badge&logo=vercel&logoColor=white" /> Business Simulator</h4>
+      <h4><img src="https://img.shields.io/badge/Petakan.ai-0EA5A4?style=for-the-badge&logo=vercel&logoColor=white" /> </h4>
       <p>Platform interaktif untuk founder e-commerce menguji strategi harga, marketing spend, dan prediksi profit menggunakan <b>Next.js + Firebase</b>.</p>
       <strong>Tools:</strong> Next.js · TypeScript · Firebase · Chart.js
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><img src="https://img.shields.io/badge/Jurnal_Trading-2D3748?style=for-the-badge&logo=internetexplorer&logoColor=white" /> Web3 DApp</h4>
-      <p>Aplikasi jurnal trading on-chain di <b>Internet Computer (ICP)</b> — eksplorasi pribadi dalam membuat real-world tools berbasis blockchain.</p>
+      <h4><img src="https://img.shields.io/badge/Jurnal_Trading-2D3748?style=for-the-badge&logo=internetexplorer&logoColor=white" /> </h4>
+      <p> Web3 DApp, Aplikasi jurnal trading on-chain di <b>Internet Computer (ICP)</b> — eksplorasi pribadi dalam membuat real-world tools berbasis blockchain.</p>
       <strong>Tools:</strong> Motoko · Svelte · ICP
     </td>
     <td width="50%" valign="top">
-      <h4><img src="https://img.shields.io/badge/Narrative_Navigator-7C3AED?style=for-the-badge&logo=coingecko&logoColor=white" /> AI Analytics</h4>
-      <p>AI-based dashboard untuk mendeteksi narasi pasar crypto menggunakan real-time API data dari CoinGecko & SWR caching.</p>
+      <h4><img src="https://img.shields.io/badge/Narrative_Navigator-7C3AED?style=for-the-badge&logo=coingecko&logoColor=white" /> </h4>
+      <p>AI Analytics, AI-based dashboard untuk mendeteksi narasi pasar crypto menggunakan real-time API data dari CoinGecko & SWR caching.</p>
       <strong>Tools:</strong> Next.js · Firebase · SWR · CoinGecko API
     </td>
   </tr>
