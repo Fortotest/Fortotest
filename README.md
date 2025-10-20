@@ -7,19 +7,18 @@
 
 <h1 align="center">Rizky Fadil</h1>
 <p align="center">
-  <strong>Digital Business Student ('24) • AI Builder • Web3 Explorer • Performance Marketer</strong><br>
-  <em>"The future’s not coming — I’m building it."</em>
+  <strong>Digital Business Student ('24") • AI Builder • Web3 Explorer • Performance Marketer</strong><br>
+  <em>"Future’s not coming, I’m building it."</em>
 </p>
 
 ---
 
 ### ⚡ What I Do
-I’m a **Digital Business student** and **freelance advertiser** who combines **design, marketing, and code** into growth engines.  
-Started as a **graphic designer** in 2020 — now building **AI-driven business tools** and running **high-converting ad campaigns** on Meta & TikTok.
+I’m a **Digital Business student'24"** who loves turning **ideas into products**.  
+Started as a **graphic designer** in 2020, now I’m building **AI-powered business tools** and running **performance-driven ad campaigns** across Meta and TikTok.
 
-> I don’t just build apps — I build *funnels*.  
-> I don’t just design — I build *brands*.
-
+> I don’t wait for the future — I build it.  
+> I don’t just study business — I build what’s next.
 ---
 
 ### 🚀 Featured Projects
@@ -60,23 +59,36 @@ Saya menjalankan kampanye digital berbasis data dengan funnel:
 **Ad → WhatsApp Business → Purchase → Retarget.**
 
 #### 💼 Meta Ads (Facebook & Instagram)
-| Metric | Value |
-|--------|--------|
-| **Total Reach** | 10,549,723 impressions |
-| **Total Clicks** | 2,777,199 |
-| **Avg CTR** | 3.8% |
-| **Ad Spend** | ± Rp 105,000,000 |
-| **Objective** | Conversion-focused campaigns (leads via WhatsApp Business) |
+<table width="100%">
+  <tr>
+    <!-- Meta Ads -->
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/Meta_Ads_(Facebook_&_Instagram)-0866FF?style=for-the-badge&logo=facebook&logoColor=white" /><br>
+      <strong>Meta Ads (Facebook & Instagram)</strong><br>
+      <em>Performance-based campaigns built for conversion.</em><br><br>
+      Menjalankan kampanye konversi dengan fokus pada <b>lead generation</b> dan <b>purchase optimization</b> melalui <b>WhatsApp Business funnel</b>.  
+      Menggunakan strategi seperti <b>lookalike audiences</b>, <b>creative A/B testing</b>, dan <b>dynamic catalog ads</b> untuk hasil yang terukur dan efisien.
+      <br><br>
+      <strong>Approach:</strong> Data-driven targeting · Creative iteration · Retargeting optimization<br>
+      <strong>Focus:</strong> Conversion funnel design · Creative strategy · Campaign scaling
+    </td>
 
 🧠 *Used advanced targeting, lookalike audiences, creative A/B testing, and dynamic catalog ads.*
 
 #### 🎬 TikTok Ads & TikTok Shop
-| Focus | Strategy |
-|--------|-----------|
-| **Ad Type** | Short-form UGC & Spark Ads |
-| **Goal** | Product discovery → Shop conversion |
-| **Approach** | Organic → Paid Spark → Shop checkout |
-| **Brand Example** | MENUSA (fashion/streetwear) |
+    <!-- TikTok Ads -->
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/TikTok_Ads_&_Shop-000000?style=for-the-badge&logo=tiktok&logoColor=white" /><br>
+      <strong>TikTok Ads & TikTok Shop</strong><br>
+      <em>Creative storytelling meets performance marketing.</em><br><br>
+      Membangun kampanye berbasis <b>UGC</b> dan <b>Spark Ads</b> untuk meningkatkan awareness dan konversi di <b>TikTok Shop</b>.  
+      Menggabungkan pendekatan <b>organic-first</b> dengan <b>paid amplification</b> agar konten terasa autentik, engaging, dan tetap menggerakkan hasil.
+      <br><br>
+      <strong>Approach:</strong> Organic → Paid Spark → Shop checkout<br>
+      <strong>Focus:</strong> UGC optimization · Creator collaboration · Conversion scaling
+    </td>
+  </tr>
+</table>
 
 ⚙️ *Optimized through content hooks, storytelling, and iterative scaling for better ROAS.*
 
