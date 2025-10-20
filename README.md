@@ -1,18 +1,16 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrU4B3xl/giphy.gif" width="25px"> Hey, I'm Rizky Fadil — aka Fortotest
 
 <p align="center">
-  <strong>Digital Business Student ('24) | Freelance Marketer & Designer | AI x Web3 Builder</strong>
+  <strong>Digital Business Student ('24) | AI Builder | Web3 Explorer | Performance Marketer</strong>
   <br>
   <i>"The future’s not coming — I’m building it."</i> 🚀
 </p>
 
 ---
 
-### 🧩 Who I Am
+### ⚡ What I Do
 
-I’m a **Digital Business student** and **freelance advertiser** who loves building and branding.
-
-Started as a **graphic designer** in 2020 (Photoshop, Illustrator, Figma), now I'm building **AI-driven business tools** and running **digital marketing campaigns** across Meta & TikTok Ads.
+I’m a **Digital Business student** and **freelance advertiser** who loves building and branding. Started as a **graphic designer** in 2020 (Photoshop, Illustrator, Figma), now I'm building **AI-driven business tools** and running **digital marketing campaigns** across Meta & TikTok Ads.
 
 I don’t just build apps — I build *funnels*. I don't just design — I build *brands*.
 
@@ -56,7 +54,7 @@ Ini adalah beberapa proyek utama yang sedang saya kerjakan. *No fluff, just prod
 Saya *hands-on* menjalankan *paid ads* dengan *funnel* Ad → WhatsApp Business → Purchase.
 
 * **💰 Meta Ads (FB/IG):**
-    * **Total Reach:** 10M+ impressions
+    * **Total Reach:** 10M+ Impressions
     * **Ad Spend:** ± Rp 105M
     * **Avg. CTR:** 3.8%
 * **📱 TikTok Ads & Shop:**
@@ -64,42 +62,62 @@ Saya *hands-on* menjalankan *paid ads* dengan *funnel* Ad → WhatsApp Business 
 
 ---
 
-### 🛠️ My Tech Arsenal
+### 🛠️ My Digital Arsenal (Tech Stack)
 
-| Area | Tools & Stack |
-|------|---------------|
-| **Frontend** | Next.js, Angular, Svelte, Tailwind CSS, HTML5 |
-| **Languages** | TypeScript, JavaScript, Motoko |
-| **Design** | Photoshop, Illustrator, Figma, Canva, AI Tools |
-| **Marketing** | Meta Ads, TikTok Ads, WA Business API |
-| **Backend & Tools** | Firebase, Node.js, Vite, Chart.js, SWR |
-| **Blockchain** | Internet Computer (ICP) |
+<p align="left">
+  <strong>Frontend & Frameworks:</strong><br>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+</p>
+
+<p align="left">
+  <strong>Languages:</strong><br>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Motoko-E5A300?style=for-the-badge&logo=motoko&logoColor=white" alt="Motoko">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+</p>
+
+<p align="left">
+  <strong>Backend, Platforms & Tools:</strong><br>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+  <img src="https://img.shields.io/badge/Internet_Computer-ICP-blue?style=for-the-badge&logo=internetcomputer" alt="Internet Computer">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js">
+  <img src="https://img.shields.io/badge/SWR-000000?style=for-the-badge&logo=swr&logoColor=white" alt="SWR">
+</p>
+
+<p align="left">
+  <strong>Design:</strong><br>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" alt="Photoshop">
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white" alt="Illustrator">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
+</p>
 
 ---
 
 ### 📈 My GitHub Vitals
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fortotest&show_icons=true&theme=transparent&hide_border=true&title_color=7F56D9&icon_color=7F56D9&text_color=c9cacc" alt="Fortotest's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fortotest&layout=compact&theme=transparent&hide_border=true&title_color=7F56D9&text_color=c9cacc" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fortotest&show_icons=true&theme=transparent&hide_border=true&title_color=7F56D9&icon_color=7F56D9&text_color=c9cacc&bg_color=0,0,0,0" alt="Fortotest's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fortotest&layout=compact&theme=transparent&hide_border=true&title_color=7F56D9&text_color=c9cacc&bg_color=0,0,0,0" alt="Top Languages">
 </p>
 
 ---
 
-### 🤝 Let’s Connect
+### 🤝 Let's Connect
 
 *Got a crazy idea? Want to jam on something AI x Web3 x Fintech?*
 <br>
 Saya selalu *open* untuk diskusi, kolaborasi, atau *brainstorming* konsep gila. *Feel free to reach out.*
 
-<p align="left">
-  <a href="https://clicky.id/rizkyfadil" target="_blank"><b>💼 Portfolio (Clicky)</b></a><br>
-  <a href="https://github.com/Fortotest" target="_blank"><b>📊 GitHub</b></a><br>
-  <a href="https://shopee.co.id/menusart1" target="_blank"><b>🧢 Brand (MENUSA)</b></a><br>
-  <a href="https://instagram.com/fortotest" target="_blank"><b>📱 Instagram</b></a><br>
-  <a href="https://tiktok.com/@fortotest.ai" target="_blank"><b>💬 TikTok</b></a><br>
-  <a href="mailto:fadillatur.rizki@cakrawala.ac.id"><b>📧 Email Me</b></a>
-</p>
+* 🌐 **Portfolio:** [**clicky.id/rizkyfadil**](https://clicky.id/rizkyfadil)
+* 💼 **LinkedIn:** [**(Tambahkan Link LinkedIn Kamu di Sini)**](https://linkedin.com) * 📱 **Instagram:** [**@fortotes**](https://instagram.com/fortotes)
+* 📧 **Email:** `fadillatur.rizki@cakrawala.ac.id`
 
 ---
 <p align="center">
