@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrU4B3xl/giphy.gif" width="25px"> Hey, I'm Rizky Fadil — aka Fortotest
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrU4B3xl/giphy.gif" width="25px"> Hey, I'm Rizky Fadil
 
 <p align="center">
   <strong>Digital Business Student ('24) | AI Builder | Web3 Explorer | Performance Marketer</strong>
