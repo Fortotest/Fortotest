@@ -7,7 +7,8 @@
 
 <h1 align="center">Rizky Fadil</h1>
 <p align="center">
-  <strong>Digital Business Student ('24") • AI Builder • Web3 Explorer • Performance Marketer</strong><br>
+  <strong>Digital Business Student ('24")
+    • AI Builder • Web3 Explorer • Performance Marketer</strong><br>
   <em>"Future’s not coming, I’m building it."</em>
 </p>
 
