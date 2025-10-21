@@ -2,7 +2,7 @@
 
 <!-- 🖼️ Header Image -->
 <p align="center">
-  <img src="https://github.com/Fortotest/Market.ai/blob/25f42608c8cbf083e3bed8660789b3b7b14b952b/PinDown.io_%40FootageVideosStreet_1761007050.gif" width="900" style="border-radius:12px; box-shadow: 0 8px 30px rgba(0,0,0,.15); margin-bottom:20px;"/>
+<img src="https://raw.githubusercontent.com/Fortotest/Market.ai/25f42608c8cbf083e3bed8660789b3b7b14b952b/PinDown.io_%40FootageVideosStreet_1761007050.gif" />
 </p>
 
 <h1 align="center">Rizky Fadil</h1>
