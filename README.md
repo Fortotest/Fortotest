@@ -2,7 +2,7 @@
 
 <!-- 🖼️ Header Image -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1200&q=80" alt="Tech workspace illustration" width="900" style="border-radius:12px; box-shadow: 0 8px 30px rgba(0,0,0,.15); margin-bottom:20px;"/>
+  <img src="https://github.com/Fortotest/Market.ai/blob/7430fc5c599549115189d441ea325b2bd4ce2c39/fortotes.mp4" width="900" style="border-radius:12px; box-shadow: 0 8px 30px rgba(0,0,0,.15); margin-bottom:20px;"/>
 </p>
 
 <h1 align="center">Rizky Fadil</h1>
