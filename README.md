@@ -133,11 +133,10 @@ Started as a **graphic designer** in 2020, now I’m building **AI-powered busin
 </p>
 
 ---
-
 <p align="center">
-  <em>“Design sparks the idea. Data drives the decision. Code shapes the future.”</em><br><br>
-  <em>“Future’s not coming — I’m building it.”</em><br><br>
-   <strong>Rizky Fadil</strong>
+  <em>“Design sparks the idea. Data drives the decision. Code shapes the future.”</em><br>
+  <em>“Future’s not coming — I’m building it.”</em><br>
+  <strong>Rizky Fadil</strong>
 </p>
 
 <!-- ===== End of README ===== -->
