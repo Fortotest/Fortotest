@@ -15,8 +15,8 @@
 ---
 
 ### ⚡ What I Do
-I’m a **Digital Business student'24"** who loves turning **ideas into products**.  
-Started as a **graphic designer** in 2020, now I’m building **AI-powered business tools** and running **performance-driven ad campaigns** across Meta and TikTok.
+I’m a **Digital Business student (’24)** who bridges **creative design and digital strategy**.  
+Started as a **graphic designer** in 2020 — now focused on building **AI-based business tools** and running **scalable marketing funnels** across Meta and TikTok.
 
 ---
 
@@ -83,7 +83,7 @@ Started as a **graphic designer** in 2020, now I’m building **AI-powered busin
 
 ### 🧰 Tech & Creative Stack
 
-#### 🖥️ Frontend & Frameworks
+#### Frontend & Frameworks
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
@@ -91,7 +91,7 @@ Started as a **graphic designer** in 2020, now I’m building **AI-powered busin
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
-#### 💾 Backend, Platforms & Tools
+#### Backend, Platforms & Tools
 <p>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Internet_Computer-302B63?style=for-the-badge&logo=internetcomputer&logoColor=white"/>
@@ -100,7 +100,7 @@ Started as a **graphic designer** in 2020, now I’m building **AI-powered busin
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
 </p>
 
-#### 🎨 Design & Marketing
+#### Design & Marketing
 <p>
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
@@ -113,7 +113,7 @@ Started as a **graphic designer** in 2020, now I’m building **AI-powered busin
 
 ---
 
-### 📈 GitHub Insights
+### GitHub Insights
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fortotest&show_icons=true&theme=transparent&hide_border=true" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fortotest&layout=compact&theme=transparent&hide_border=true" width="48%"/>
@@ -121,7 +121,7 @@ Started as a **graphic designer** in 2020, now I’m building **AI-powered busin
 
 ---
 
-### 🌐 Let’s Connect
+### Let’s Connect
 <p align="center">
   <a href="https://instagram.com/fortotes" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   &nbsp;
