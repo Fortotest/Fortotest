@@ -53,7 +53,6 @@ Started as a **graphic designer** in 2020, now I’m building **AI-powered busin
 ---
 
 ### 📊 Marketing & Performance
-> *From creatives to conversions — every ad is built to perform.*
 
 ![Meta Ads](https://img.shields.io/badge/Meta_Ads_(Facebook_&_Instagram)-0866FF?style=for-the-badge&logo=meta&logoColor=white)
 
@@ -136,13 +135,9 @@ Started as a **graphic designer** in 2020, now I’m building **AI-powered busin
 ---
 
 <p align="center">
-  <em>“Design sparks the idea. Data drives the decision. Code shapes the future.”</em><br>
-  <em>“Future’s not coming — I’m building it.”</em>
-</p>
-
-
-”</em><br>
-  — <strong>Rizky Fadil</strong>
+  <em>“Design sparks the idea. Data drives the decision. Code shapes the future.”</em><br><br>
+  <em>“Future’s not coming — I’m building it.”</em><br><br>
+   <strong>Rizky Fadil</strong>
 </p>
 
 <!-- ===== End of README ===== -->
