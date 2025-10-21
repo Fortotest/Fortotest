@@ -54,6 +54,7 @@ Started as a **graphic designer** in 2020, now I’m building **AI-powered busin
 
 ### 📊 Marketing & Performance
 > *From creatives to conversions — every ad is built to perform.*
+
 ![Meta Ads](https://img.shields.io/badge/Meta_Ads_(Facebook_&_Instagram)-0866FF?style=for-the-badge&logo=meta&logoColor=white)
 
 | Focus | Description |
