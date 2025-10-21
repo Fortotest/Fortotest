@@ -18,8 +18,6 @@
 I’m a **Digital Business student'24"** who loves turning **ideas into products**.  
 Started as a **graphic designer** in 2020, now I’m building **AI-powered business tools** and running **performance-driven ad campaigns** across Meta and TikTok.
 
-> I don’t wait for the future — I build it.  
-> I don’t just study business — I build what’s next.
 ---
 
 ### 🚀 Featured Projects
@@ -136,8 +134,14 @@ Started as a **graphic designer** in 2020, now I’m building **AI-powered busin
 
 ---
 
-<p align="center">
-  <em>“Design sells the dream. Data proves the value. Code makes it real.”</em><br>
+<div align="center">
+<span>ADesign sparks the idea, Data drives the decision, Code shapes the future.
+</span><br>
+  <em>"Future’s not coming, I’m building it."</em>
+</div>
+
+
+”</em><br>
   — <strong>Rizky Fadil</strong>
 </p>
 
