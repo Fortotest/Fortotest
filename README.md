@@ -117,7 +117,7 @@ Started as a **graphic designer** in 2020 — now focused on building **AI-based
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fortotest&show_icons=true&theme=transparent&hide_border=true" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fortotest&layout=compact&theme=transparent&hide_border=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ishandutta2007&theme=dark&hide_border=false" width="48%"/>  <img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ishandutta2007&theme=dark&hide_border=false" alt="e" style="max-width: 100%;<img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 </p>
 
 ---
