@@ -134,11 +134,10 @@ Started as a **graphic designer** in 2020, now I’m building **AI-powered busin
 
 ---
 
-<div align="center">
-<span>ADesign sparks the idea, Data drives the decision, Code shapes the future.
-</span><br>
-  <em>"Future’s not coming, I’m building it."</em>
-</div>
+<p align="center">
+  <em>“Design sparks the idea. Data drives the decision. Code shapes the future.”</em><br>
+  <em>“Future’s not coming — I’m building it.”</em>
+</p>
 
 
 ”</em><br>
