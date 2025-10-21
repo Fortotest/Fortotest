@@ -2,7 +2,7 @@
 
 <!-- 🖼️ Header Image -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/Fortotest/Market.ai/1170e0d54f6c8fedc83637cac49dd8e613345f34/giphy.gif" />
+  <img src="https://raw.githubusercontent.com/Fortotest/Market.ai/fe0271bd8da6e002a9ec16ce9bae9b782ca8a370/202510211340.gif" />
 </p>
 
 <h1 align="center">Rizky Fadil</h1>
