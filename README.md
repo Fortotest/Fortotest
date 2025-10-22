@@ -2,14 +2,14 @@
 
 <!-- 🖼️ Header Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Fortotest/Market.ai/fe0271bd8da6e002a9ec16ce9bae9b782ca8a370/202510211340.gif" />
+  <img src="https://raw.githubusercontent.com/Fortotest/Market.ai/fe0271bd8da6e002a9ec16ce9bae9b782ca8a370/202510211340.gif" width="900" style="border-radius:12px; box-shadow:0 8px 30px rgba(0,0,0,.15);" />
 </p>
 
 <h1 align="center">Rizky Fadil</h1>
 <p align="center">
-  <strong>Digital Business Student (24)</strong><br>
-<small>AI Builder • Web3 Explorer • Performance Marketer</small><br>
-<em>"Future’s not coming, I’m building it."</em>
+  <strong>Digital Business Student (’24)</strong><br>
+  <small>AI Builder • Web3 Explorer • Performance Marketer</small><br>
+  <em>"Future’s not coming, I’m building it."</em>
 </p>
 
 ---
@@ -23,31 +23,62 @@ Started as a **graphic designer** in 2020 — now focused on building **AI-based
 ### 🚀 Featured Projects
 
 <table width="100%" cellspacing="0" cellpadding="10">
+
+  <!-- ROW 1 -->
   <tr>
     <td width="50%" valign="top">
-      <h4><img src="https://img.shields.io/badge/MENUSA-111827?style=for-the-badge&logo=shopify&logoColor=white" /> </h4>
-      <p><em>Creative streetwear meets digital identity.</em><br>
-      Brand fashion & digital design yang menggabungkan konsep art direction dan komunitas. Saya mengelola visual, strategy, dan campaign end-to-end.</p>
-      <strong>Tools:</strong> Photoshop · Illustrator · Figma · Canva · AI
-    </td>
-    <td width="50%" valign="top">
-      <h4><img src="https://img.shields.io/badge/Petakan.ai-0EA5A4?style=for-the-badge&logo=vercel&logoColor=white" /> </h4>
+      <h4>
+        <img src="https://img.shields.io/badge/Petakan.ai-0EA5A4?style=for-the-badge&logo=vercel&logoColor=white" />
+      </h4>
       <p>Platform interaktif untuk founder e-commerce menguji strategi harga, marketing spend, dan prediksi profit menggunakan <b>Next.js + Firebase</b>.</p>
       <strong>Tools:</strong> Next.js · TypeScript · Firebase · Chart.js
     </td>
+    <td width="50%" valign="top">
+      <h4>
+        <img src="https://img.shields.io/badge/MENUSA-111827?style=for-the-badge&logo=shopify&logoColor=white" />
+      </h4>
+      <p><em>Creative streetwear meets digital identity.</em><br>
+      Brand fashion & digital design yang menggabungkan konsep art direction dan komunitas. Saya mengelola visual, strategi, dan campaign end-to-end.</p>
+      <strong>Tools:</strong> Photoshop · Illustrator · Figma · Canva · AI
+    </td>
   </tr>
+
+  <!-- ROW 2 -->
   <tr>
     <td width="50%" valign="top">
-      <h4><img src="https://img.shields.io/badge/Jurnal_Trading-2D3748?style=for-the-badge&logo=internetexplorer&logoColor=white" /> </h4>
-      <p> Web3 DApp, Aplikasi jurnal trading on-chain di <b>Internet Computer (ICP)</b> — eksplorasi pribadi dalam membuat real-world tools berbasis blockchain.</p>
+      <h4>
+        <img src="https://img.shields.io/badge/Jurnal_Trading-2D3748?style=for-the-badge&logo=internetexplorer&logoColor=white" />
+      </h4>
+      <p>Web3 DApp — aplikasi jurnal trading on-chain di <b>Internet Computer (ICP)</b>. Eksplorasi pribadi dalam membangun real-world tools berbasis blockchain.</p>
       <strong>Tools:</strong> Motoko · Svelte · ICP
     </td>
     <td width="50%" valign="top">
-      <h4><img src="https://img.shields.io/badge/Narrative_Navigator-7C3AED?style=for-the-badge&logo=coingecko&logoColor=white" /> </h4>
-      <p>AI Analytics, AI-based dashboard untuk mendeteksi narasi pasar crypto menggunakan real-time API data dari CoinGecko & SWR caching.</p>
+      <h4>
+        <img src="https://img.shields.io/badge/Narrative_Navigator-7C3AED?style=for-the-badge&logo=coingecko&logoColor=white" />
+      </h4>
+      <p>AI Analytics dashboard untuk mendeteksi narasi pasar crypto menggunakan real-time API data dari CoinGecko & SWR caching.</p>
       <strong>Tools:</strong> Next.js · Firebase · SWR · CoinGecko API
     </td>
   </tr>
+
+  <!-- ROW 3 -->
+  <tr>
+    <td width="50%" valign="top">
+      <h4>
+        <img src="https://img.shields.io/badge/Rencanai-0F766E?style=for-the-badge&logo=angular&logoColor=white" />
+      </h4>
+      <p>Platform perencanaan digital berbasis AI yang membantu pengguna memetakan strategi bisnis dan performa proyek secara real-time.</p>
+      <strong>Tools:</strong> Angular · TypeScript · Firebase · Vite
+    </td>
+    <td width="50%" valign="top">
+      <h4>
+        <img src="https://img.shields.io/badge/Apsari_Patisserie-F97316?style=for-the-badge&logo=googlechrome&logoColor=white" />
+      </h4>
+      <p>Website profil UMKM <b>Apsari Patisserie</b> — proyek kolaboratif yang berfokus pada desain brand, storytelling, dan CTA langsung ke WhatsApp untuk konversi.</p>
+      <strong>Tools:</strong> HTML · CSS · JavaScript · Canva
+    </td>
+  </tr>
+
 </table>
 
 ---
@@ -67,6 +98,7 @@ Started as a **graphic designer** in 2020 — now focused on building **AI-based
 🧠 *Built and optimized full-funnel ad strategies — from creative concept to conversion scaling.*
 
 ---
+
 ![TikTok Ads](https://img.shields.io/badge/TikTok_Ads_&_Shop-000000?style=for-the-badge&logo=tiktok&logoColor=white)
 
 | Focus | Description |
@@ -113,16 +145,16 @@ Started as a **graphic designer** in 2020 — now focused on building **AI-based
 
 ---
 
-### GitHub Insights
+### 📈 GitHub Insights
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fortotest&show_icons=true&theme=transparent&hide_border=true&count_private=true&cache_seconds=7200" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fortotest&layout=compact&theme=transparent&hide_border=true&count_private=true&cache_seconds=7200" width="48%"/>
-  <img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+  <img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg" alt="GitHub Snake" style="max-width: 100%;">
 </p>
 
 ---
 
-### Let’s Connect
+### 🤝 Let’s Connect
 <p align="center">
   <a href="https://instagram.com/fortotes" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   &nbsp;
@@ -134,10 +166,10 @@ Started as a **graphic designer** in 2020 — now focused on building **AI-based
 </p>
 
 ---
+
 <p align="center">
   <em>“Design sparks the idea. Data drives the decision. Code shapes the future.”</em><br>
-  <em>“Future’s not coming — I’m building it.”</em><br>
-  <strong>Rizky Fadil</strong>
+  <em>“Future’s not coming — I’m building it.”</em>
 </p>
 
 <!-- ===== End of README ===== -->
