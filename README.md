@@ -147,7 +147,7 @@ Website profil UMKM <b>Apsari Patisserie</b> — toko kue & makanan ringan lokal
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg" alt="snake animation" style="max-width: 100%;">
+  <img src="https://raw.githubusercontent.com/kamranahmedse/snk/output-svg-only/github-contribution-grid-snake.svg" alt="snake animation" style="max-width: 100%;">
 </p>
 
 ---
